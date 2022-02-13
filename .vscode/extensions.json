@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "redhat.vscode-microprofile",
+        "redhat.vscode-xml",
+        "SonarSource.sonarlint-vscode",
+        "GabrielBB.vscode-lombok",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint"
+    ]
+}
